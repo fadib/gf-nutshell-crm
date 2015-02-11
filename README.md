@@ -1,2 +1,3 @@
-# gf-nutshell-crm
-GravityForms Add-ons for Nutshell CRM
+# GravityForms Nutshell CRM
+
+GravityForms Add-ons for Nutshell CRM (Unofficial)
