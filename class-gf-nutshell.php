@@ -31,9 +31,7 @@ class GFNutshell extends GFFeedAddOn {
 	}
 
 	public function init() {
-
 		parent::init();
-
 	}
 
 	public function init_admin(){
